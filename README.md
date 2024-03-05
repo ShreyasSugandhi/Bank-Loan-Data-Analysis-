@@ -32,8 +32,9 @@ The journey involved strategic data visualization and analysis, providing with a
 Grateful for the opportunity to contribute to our bank's data-driven approach, ensuring we stay at the forefront of the financial landscape. Excited about the positive impact on decision-making and strategic planning. Let's continue to explore the power of data! 
 💪🔍📈
 
-![Details](https://github.com/ShreyasSugandhi/Bank-Loan-Data-Analysis-/assets/125599379/a43fd302-5ecd-408e-9f4b-a80749cda0d5)
 
 ![Overview](https://github.com/ShreyasSugandhi/Bank-Loan-Data-Analysis-/assets/125599379/6bf37783-169e-4d8a-b230-07d1e17dbc0b)
 
 ![Summary](https://github.com/ShreyasSugandhi/Bank-Loan-Data-Analysis-/assets/125599379/b50b126e-a3a7-4ea5-ada1-10f55b944671)
+
+![Details](https://github.com/ShreyasSugandhi/Bank-Loan-Data-Analysis-/assets/125599379/a43fd302-5ecd-408e-9f4b-a80749cda0d5)
